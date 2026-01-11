@@ -1,3 +1,3 @@
 # 2025-OpenSourceSW
 3주차 readme 수정
-ㅇㅎㄴㄹ오ㅗㄹㅇ노
+숙제용레포
